@@ -1,0 +1,401 @@
+.Header1{
+    position: absolute;
+    left: 300px;
+    top: 10px;
+}
+.logo{
+    position: absolute;
+    width: 90px;
+    height: 195.99px;
+}
+.name-web{
+    position: absolute;
+    width: 157px;
+    height: 38px;
+    left: 120px;
+    top: 50px;
+
+    font-family: 'Radio Canada';
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 38px;
+    
+    color: #000000;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.Download{
+    position: absolute;
+width: 860px;
+height: 231px;
+
+right:680px;
+top: 200px;
+
+
+font-family: 'Radio Canada';
+font-style: normal;
+font-weight: 700;
+font-size: 59px;
+line-height: 77px;
+text-align: center;
+
+color: black;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.spancolor{
+    color:  #5D9D0B;
+}
+
+.Phone{
+    position: absolute;
+    width: 660px;
+    height: 513px;
+
+    left: 900px;
+    top: 110px;
+    z-index: -1;
+}
+
+.semrush-phone{
+    position: absolute;
+    left:1170px;
+    top: 370px;
+    rotate: 3deg;
+
+    font-family: 'Radio Canada';
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 38px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.logo-phone{
+    position: absolute;
+    left:1190px;
+    top: 200px;
+    rotate: 12deg;
+
+    width: 90px;
+    height: 195.99;
+    
+}
+
+.socail-media{
+    position: absolute;
+    left: 50px;
+    top: 250px;
+
+    width: 200px;
+    height: 10000px;
+}
+
+.facebook{
+    
+    width: 50px;
+    height: 50px;
+    left: 80px;
+    top: 418px;
+}
+.twitter{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 110px;
+    left: -2px;
+    
+}
+
+.instagram{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 220px;
+    left: -2px;
+    
+}
+
+.youtube{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 330px;
+    left: -2px;
+    
+}
+
+button{
+    background-color:#1B1D24 ;
+    border-radius: 20px;
+    color: #5D9D0B;
+    border: 1px solid #1B1D24;
+
+    position: absolute;
+    width: 280px;
+    height: 67px;
+    left: 387px;
+    top: 573px;
+
+    font-family: 'Radio Canada';
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 38px;
+
+}
+.line1{
+    position: absolute;
+    width: 430px;
+    height: 6px;
+    left: 277px;
+    top: 804px;
+    
+    background: #1B1D24;
+    color: #1B1D24;
+}
+
+.line2{
+    position: absolute;
+    width: 430px;
+    height: 6px;
+    left: 977px;
+    top: 804px;
+    
+    background: #1B1D24;
+    color: #1B1D24;
+}
+
+.trusted{
+    position: absolute;
+    width: 246px;
+    height: 29px;
+    left: 725px;
+    top: 777px;
+    
+    font-family: 'Radio Canada';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+    
+    text-align: center;
+    
+    color: #000000;
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) 
+}
+
+.tesla{
+    
+position: absolute;
+width: 93px;
+height: 93px;
+
+top: 850px;
+left: 300px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.walmart{
+    
+position: absolute;
+width: 93px;
+height: 93px;
+
+top: 850px;
+left: 550px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.nike{
+    
+position: absolute;
+width: 93px;
+height: 93px;
+
+top: 850px;
+left: 800px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.Youtube{
+    
+position: absolute;
+width: 93px;
+
+top: 850px;
+left: 1050px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.addidas{
+
+position: absolute;
+width: 93px;
+height: 93px;
+
+top: 850px;
+left: 1300px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.menu{
+    position: absolute;
+width: 53px;
+height: 53px;
+
+top: 70px;
+left: 1500px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.textt{
+    position: absolute;
+width: 1562px;
+height: 154px;
+
+top: 1100px;
+left: 60px;
+
+font-family: 'Radio Canada';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 77px;
+text-align: center;
+
+color: #000000;
+}
+
+
+.system{
+    position: absolute;
+    top: 1250px;
+    left: 60px;
+    width: 10000px;
+}
+.img-system{
+    position: absolute;
+    width:162px ;
+    height: 193px;
+    left: 150px;
+    top: 250px;
+
+}
+.text-system{
+    font-family: 'Radio Canada';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+    
+    text-align: center;
+    
+    color: #000000;
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) ;
+
+    position: absolute;
+    left: 100px;
+    top: 450px;
+}
+
+
+
+.faqs{
+    position: absolute;
+    top: 1250px;
+    left: 60px;
+    width: 10000px;
+}
+.img-faqs{
+    position: absolute;
+    width:162px ;
+    height: 193px;
+    left: 680px;
+    top: 250px;
+
+}
+
+.text-faqs{
+    font-family: 'Radio Canada';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+    
+    text-align: center;
+    
+    color: #000000;
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) ;
+
+    position: absolute;
+    left: 730px;
+    top: 450px;
+}
+
+
+.server{
+    position: absolute;
+    top: 1250px;
+    left: 600px;
+    width: 10000px;
+}
+
+.img-server{
+    position: absolute;
+    width:162px ;
+    height: 193px;
+    left: 680px;
+    top: 250px;
+
+}
+
+.text-server{
+    font-family: 'Radio Canada';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+    
+    text-align: center;
+    
+    color: #000000;
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) ;
+
+    position: absolute;
+    left: 690px;
+    top: 450px;
+}
+
+
+.emailsend{
+    text-align: center;
+    font-family: 'Radio Canada';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 29px;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) ;
+
+
+    position: absolute;
+    left: 550px;
+    top: 1950px;
+}
